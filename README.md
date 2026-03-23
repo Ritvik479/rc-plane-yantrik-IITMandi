@@ -8,6 +8,8 @@
 
 Garuda 2.0 is a high-wing monoplane with a conventional tail, designed for stability and payload delivery. The design philosophy prioritizes a balance between payload capacity and structural rigidity. The **CH-10 airfoil** was selected for its superior lift characteristics at low speeds, and the streamlined rectangular fuselage minimizes drag while housing a 250g cube payload internally.
 
+Visit Official Webpage at : https://remandey.github.io/yantrik-rcplane
+
 ---
 
 ## 📐 Technical Specifications
