@@ -16,6 +16,7 @@ This repository contains all design, simulation, and electronics files for our c
 |-------------------|---------------------|
 | **Configuration** | Fixed-Wing          |
 | **Wingspan**      | 1.18 m              |
+| **Airfoil**       | ch-10               |
 | **All-Up Weight** | ~950 g              |
 | **Motor**         | BLDC 1400 KV        |
 | **Battery**       | 11.1V 3S LiPo       |
